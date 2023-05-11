@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\bin\Debug\net6.0\BirdsFlyingAroundApp.exe
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\bin\Debug\net6.0\BirdsFlyingAroundApp.deps.json
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\bin\Debug\net6.0\BirdsFlyingAroundApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\bin\Debug\net6.0\BirdsFlyingAroundApp.dll
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\bin\Debug\net6.0\BirdsFlyingAroundApp.pdb
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.dll
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\refint\BirdsFlyingAroundApp.dll
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.pdb
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\BirdsFlyingAroundApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BirdsFlyingAroundApp\BirdsFlyingAroundApp\obj\Debug\net6.0\ref\BirdsFlyingAroundApp.dll
